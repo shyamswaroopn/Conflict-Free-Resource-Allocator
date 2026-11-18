@@ -1,0 +1,7 @@
+out/
+*.class
+sources.txt
+db.properties
+.idea/
+.vscode/
+.DS_Store

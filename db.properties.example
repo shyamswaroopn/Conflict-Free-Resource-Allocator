@@ -1,0 +1,5 @@
+db.host=localhost
+db.port=3306
+db.name=conflict_free_allocator
+db.user=YOUR_MYSQL_USERNAME
+db.password=YOUR_MYSQL_PASSWORD
